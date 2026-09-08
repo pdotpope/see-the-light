@@ -1,3 +1,29 @@
 {
-  "known_events": {}
+  "known_events": {
+    "https://register3.thelightsfest.com/event/the-lights-kansas-city-area-10-3-2026": {
+      "date": "October 3rd, 2026 @ 3:30pm",
+      "start_epoch": "1791066600",
+      "title": "The Lights, Kansas City area 10-3-2026"
+    },
+    "https://register3.thelightsfest.com/event/the-lights-new-orleans-area-10-31-2026": {
+      "date": "October 31st, 2026 @ 3:15pm",
+      "start_epoch": "1793484900",
+      "title": "The Lights, New Orleans area 10-31-2026"
+    },
+    "https://register3.thelightsfest.com/event/the-lights-new-york--atlantic-city-area-10-17-2026": {
+      "date": "October 17th, 2026 @ 3:30pm",
+      "start_epoch": "1792276200",
+      "title": "The Lights, New York / Atlantic City area 10-17-2026"
+    },
+    "https://register3.thelightsfest.com/event/the-lights-salt-lake-city-area-10-10-2026": {
+      "date": "October 10th, 2026 @ 4:00pm",
+      "start_epoch": "1791673200",
+      "title": "The Lights, Salt Lake City area 10-10-2026"
+    },
+    "https://register3.thelightsfest.com/event/the-lights-water-lantern-festival-atlanta-area-9-12-2026": {
+      "date": "September 12th, 2026 @ 6:00pm",
+      "start_epoch": "1789261200",
+      "title": "The Lights, Water Lantern Festival, Atlanta area 9-12-2026"
+    }
+  }
 }
