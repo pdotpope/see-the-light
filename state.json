@@ -1,5 +1,10 @@
 {
   "known_events": {
+    "https://register3.thelightsfest.com/event/the-lights-fresno-area-11-21-2026": {
+      "date": "November 21st, 2026 @ 1:30pm",
+      "start_epoch": "1795296600",
+      "title": "The Lights, Fresno area 11-21-2026"
+    },
     "https://register3.thelightsfest.com/event/the-lights-kansas-city-area-10-3-2026": {
       "date": "October 3rd, 2026 @ 3:30pm",
       "start_epoch": "1791066600",
@@ -19,6 +24,11 @@
       "date": "October 10th, 2026 @ 4:00pm",
       "start_epoch": "1791673200",
       "title": "The Lights, Salt Lake City area 10-10-2026"
+    },
+    "https://register3.thelightsfest.com/event/the-lights-southern-cali-area-11-7-2026": {
+      "date": "November 7th, 2026 @ 2:00pm",
+      "start_epoch": "1794088800",
+      "title": "The Lights, Southern Cali area 11-7-2026"
     },
     "https://register3.thelightsfest.com/event/the-lights-water-lantern-festival-atlanta-area-9-12-2026": {
       "date": "September 13th, 2026 @ 6:00pm",
