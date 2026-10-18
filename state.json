@@ -1,5 +1,10 @@
 {
   "known_events": {
+    "https://register3.thelightsfest.com/event/the-light-a-christmas-celebration-dallas-area-12-5-2026": {
+      "date": "December 5th, 2026 @ 2:15pm",
+      "start_epoch": "1796508900",
+      "title": "The Light, A CHRISTmas Celebration, Dallas area 12-5-2026"
+    },
     "https://register3.thelightsfest.com/event/the-lights-fresno-area-11-21-2026": {
       "date": "November 21st, 2026 @ 1:30pm",
       "start_epoch": "1795296600",
